@@ -23,7 +23,6 @@ Each problem folder contains:
 - Java
 - Python
 - JavaScript
-- C++
 
 ## 📊 Progress
 
